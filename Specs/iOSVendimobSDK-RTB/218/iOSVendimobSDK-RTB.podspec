@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = "http://vendimob.pl/"
   s.license          = { :text => "Copyright 2018 Vendimob", :type => "Copyright" }
   s.author           = "Vendimob"
-  s.source           = { :http => "http://vendimob.pl/sdk/rtb/ios/iOSVendimobSDK_v218.zip" }
+  s.source           = { :http => "http://vendimob.pl/sdk/rtb/ios/iOSVendimobSDK-RTB_v218.zip" }
 
   s.platform     = :ios, "7.0"
 
