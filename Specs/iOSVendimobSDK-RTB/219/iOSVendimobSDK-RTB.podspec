@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "iOSVendimobSDK-RTB"
-  s.version          = "218"
+  s.version          = "219"
   s.summary          = "Monetize your mobile applications with ads."
   s.homepage         = "http://vendimob.pl/"
   s.license          = { :text => "Copyright 2018 Vendimob", :type => "Copyright" }
